@@ -1,0 +1,22 @@
+<mat-card>
+    <mat-card-header>
+        <mat-card-title> {{sfChar.character}} </mat-card-title>
+        
+        
+    </mat-card-header>
+    <img mat-card-image [src]="sfChar | image">
+
+    <mat-card-content>
+        
+    </mat-card-content>
+
+    <mat-card-actions>
+        <button mat-button color="warn" [routerLink]="['/sf', sfChar.id]">
+            Leer más...
+        </button>
+
+        <button mat-button color="info" [routerLink]="['/sf/edit', sfChar.id]">
+            Editar
+        </button>
+    </mat-card-actions>
+</mat-card>

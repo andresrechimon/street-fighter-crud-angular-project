@@ -1,0 +1,29 @@
+<mat-grid-list cols="1" *ngIf="!sfChar; else divSf">
+    <mat-grid-tile>
+        <mat-spinner></mat-spinner>
+    </mat-grid-tile>
+</mat-grid-list>
+
+<ng-template #divSf> 
+    <div fxLayout="row" fxLayout.xs="column" fxLayoutGap="30px">
+        <div fxFlex="50">
+            <h1> {{sfChar.character}} </h1>
+            <mat-divider></mat-divider>
+            <br>
+            <img [src]="sfChar | image">
+        </div>
+        <div fxFlex="50">
+            <h1>Detalles...</h1>
+            <mat-divider></mat-divider>
+            <mat-list>
+                <mat-list-item>País de origen: {{sfChar.nationality}} </mat-list-item> 
+                <mat-list-item>Debut: {{sfChar.first_appearance}} </mat-list-item>   
+            </mat-list>
+            <p style="margin-left: 15px;">{{sfChar.backstory}}</p> 
+            <br>
+            <button mat-button color="warn" (click)="back()">Regresar</button>
+        </div>
+    </div>
+</ng-template>
+
+

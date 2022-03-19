@@ -1,0 +1,52 @@
+<h1>{{(sfChar.id) ? 'Editar' : 'Nuevo'}} Personaje</h1>
+<div fxLayout="row" fxLayoutGap="40px" fxLayout.xs="column">
+    <div fxFlex="50" fxLayout="column">
+
+        <div fxLayout="row" fxLayout.xs="column" fxLayoutGap="10px">
+            <mat-form-field fxFlex="100" fxLayout.xs="column">
+              <mat-label>PJ de Street Fighter</mat-label>
+              <input matInput type="text" required [(ngModel)]="sfChar.character">
+            </mat-form-field>
+
+            <mat-form-field fxFlex="100">
+              <mat-label>País de Origen</mat-label>
+              <input matInput type="text" required [(ngModel)]="sfChar.nationality">
+            </mat-form-field>
+        </div>
+
+        <mat-form-field>
+            <mat-label>Debut</mat-label>
+            <input matInput type="text" required [(ngModel)]="sfChar.first_appearance">
+        </mat-form-field>
+
+        <mat-form-field>
+            <mat-label>Foto URL</mat-label>
+            <input matInput type="url" required [(ngModel)]="sfChar.alt_image">
+        </mat-form-field>
+
+        <mat-form-field>
+            <mat-label>Historia</mat-label>
+            <textarea matInput required="" [(ngModel)]="sfChar.backstory"></textarea>
+        </mat-form-field>
+        <br>
+    <div fxLayout>
+    <button mat-raised-button color="primary" (click)="save()"><mat-icon>edit</mat-icon>{{(sfChar.id) ? 'Actualizar' : 'Guardar'}}</button>
+    <span class="spacer"></span>
+    <button *ngIf="sfChar.id" mat-raised-button color="warn" (click)="delete()"><mat-icon>remove</mat-icon>Borrar</button>
+    </div>
+    </div>
+    <div fxFlex="50">
+        <img [src]="sfChar | image">
+    </div>
+
+    <div *ngIf="!sfChar.id">
+        <h3>Ejemplo para probar petición POST</h3>
+        <ul>
+            <li>PJ:Zangief</li>
+            <li>País de Origen: U.R.S.S</li>
+            <li>Debut: SFII: The World Warrior</li>
+            <li>Historia: Nacido y criado en la Unión Soviética, Zangief es un personaje increíblemente patriótico que ha sido motivado de alguna manera a luchar por su Madre Patria en cada combate que ha estado alguna vez. El videojuego Street Fighter II: The World Warrior representa que Zangief era de la URSS cuando éste fue publicado en el año 1991. La Unión Soviética dejó de existir como tal a finales del año 1991, pero debido al uso intensivo de la iconografía soviética en y alrededor del personaje de Zangief, incluyendo su escenario local (una planta siderúrgica completada con el logotipo de hoz y martillo gigantes grabado en el suelo), Zangief fue representado como procedente de la URSS hasta una fecha tan extensa como el año 1998, cuando el videojuego Street Fighter Alpha 3 fue publicado (aunque justificadamente, los videojuegos de la saga Street Fighter Alpha tienen lugar entre el primer y segundo videojuego, lo que significa que la URSS todavía existía en ese entonces). En el videojuego Street Fighter IV publicado en el año 2008, fue la primera vez que Zangief fue representado como siendo de la Federación de Rusia.</li>
+            <li>URL: https://sfgalleries.net/art/sf5/sf5/tarot/sfv-tarot-07-thechariot.png</li>
+        </ul>
+    </div>
+</div>

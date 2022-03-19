@@ -1,0 +1,33 @@
+<div fxLayout="column">
+    <div>
+        <h1>Buscador de Personajes</h1>
+        <mat-divider></mat-divider>
+    </div>
+    <div fxLayout="column">
+        <h3>Buscador</h3>
+        <mat-form-field appearance="fill">
+            <mat-label>Number</mat-label>
+            <input type="text"
+                   placeholder="Pick one"
+                   aria-label="Number"
+                   matInput
+                   [(ngModel)]="term"
+                   [matAutocomplete]="auto"
+                   (input)="searching()"
+                   >
+            <mat-autocomplete 
+            autoActiveFirstOption 
+            #auto="matAutocomplete" 
+            (optionSelected)="selectedOption($event)">
+              <mat-option *ngFor="let sf of sfChar" [value]="sf">
+                {{sf.character}}
+              </mat-option>
+              <mat-option value="" *ngIf="sfChar.length === 0 && term.length > 0">No hay resultados para el término "{{term}}"</mat-option>
+            </mat-autocomplete>
+        </mat-form-field>
+    </div>
+    <div *ngIf="sfSelected">
+      <app-sf-card fxFlex="20" [sfChar]="sfSelected"></app-sf-card>
+    </div>
+</div>
+
