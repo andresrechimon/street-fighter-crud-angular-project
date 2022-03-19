@@ -1,0 +1,173 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "usuario": "John Doe",
+      "email": "john.due@gmail.com"
+    }
+  ],
+  "sf": [
+    {
+      "id": "akuma",
+      "character": "Akuma",
+      "first_appearance": "SSFII Turbo",
+      "nationality": "Japón",
+      "backstory": "Akuma (悪魔?) (que en japonés significa mal pensamiento) y conocido originalmente en Japón como Gouki (豪鬼 Gōki?, lit. Gran Ogro o Gran Demonio) es un personaje ficticio, perteneciente a la serie de videojuegos Street Fighter. Akuma es el hermano menor de Gouken, maestro de Ryu y Ken. Siempre tuvo un gran rencor hacia su hermano y durante un tiempo tenía como única meta vencerlo. Tiene el cabello rojo marrón y porta en su cuello un collar de cuentas que le arrebató a su hermano Gouken tras supuestamente asesinarlo; además viste un karategi color gris carbón y usa un trozo de cuerda alrededor de su cintura en lugar de un Obi, al igual que en sus muñecas. El Kanji-Japonés «Ten» (天) (en chino «Tian» (天) que aparece en su espalda significa «Cielo» (tanto físico como en el concepto religioso); puede ser visto tanto en su técnica definitiva como en ciertas animaciones de victoria. En Street Fighter Alpha aparece una versión más poderosa del personaje, llamada Shin Akuma, y en Super Street Fighter IV Arcade Edition una llamada Oni, que es Akuma siendo poseído totalmente por el Satsui no Hadou."
+    },
+    {
+      "id": "balrog",
+      "character": "Balrog",
+      "first_appearance": "SFII: The World Warrior",
+      "nationality": "U.S.A",
+      "backstory": "Balrog, conocido en Japón como Mike Bison (マイク・バイソン Maiku Baison?) o M. Bison, es un personaje ficticio creado por la compañía Capcom, siendo además uno de los luchadores más conocidos de la franquicia de videojuegos Street Fighter. Aunque no ha aparecido en todas las entregas, se ha dejado ver en numerosas versiones de la saga. Debutó por primera vez en Street Fighter II: The World Warrior como uno de los sub-bosses a derrotar, pero a partir de Street Fighter II: Champion Edition ya apareció como personaje jugable. Balrog era un boxeador profesional cuya carrera estaba en lo más alto. Desgraciadamente, su desmesurada agresividad y violencia fueron la causa de que por accidente, Balrog matara a un contrincante en el ring, por lo que fue expulsado del mundo del boxeo. Buscando la manera de poder volver a saborear las mieles del triunfo, se une a la malvada organización Shadaloo. No tardó en escalar posiciones dentro de la misma para finalmente, convertirse en uno de los hombres de confianza de M. Bison."
+    },
+    {
+      "id": "bison",
+      "character": "M. Bison",
+      "first_appearance": "SFII: The World Warrior",
+      "nationality": "?",
+      "backstory": "M. Bison, conocido en Japón como Vega (ベガ, Bega?) es el principal antagonista en la mayoría de videojuegos de la saga de Street Fighter y uno de los más conocidos de los videojuegos en general. Se desconocen datos específicos de Bison, aunque se sabe que es el creador de la organización criminal Shadaloo. Aunque su organización se encuentra ubicada en Tailandia, durante mucho tiempo se pensó que Bison tenía nacionalidad tailandesa, pero nunca hubo confirmación por parte de Capcom. En Street Fighter IV se volvió a ocultar su nacionalidad. Sin embargo, se dice que cayó ante Guile y Charlie (Nash), llevándose consigo a este último. M.Bison es el líder de una organización llamada Shadaloo, es una organización criminal-terrorista en la que consiste en traficar armas y drogas en el mundo. Sin embargo, el objetivo real de Bison es incrementar su potencial dentro de Shadaloo. Bison decide recorrer el mundo buscando a luchadores poderosos para formar un ejército imparable. Sagat fue el primer luchador que decide servirlo a él a cambio de saciar su venganza contra Ryu ya que este lo humilló en el primer torneo Street Fighter luego se uniría Vega y finalmente Balrog."
+    },
+    {
+      "id": "cammy",
+      "character": "Cammy",
+      "first_appearance": "SSFII: The New Challengers",
+      "nationality": "U.K",
+      "backstory": "Es inglesa, pero su cerebro fue lavado por la organización Shadaloo usando el ADN de Bison. Su misión sería la de convertirse en huésped del espíritu de Bison en caso de que este muriera. Entrenada como soldado prototipo, Cammy se convirtió en la agente más letal de Shadaloo, siendo conocida por el nombre en clave Killer Bee (Abeja Asesina). Sin embargo, Cammy comenzó a tener más conciencia de sí misma y se liberó del influjo de Bison. Rebelándose contra Shadaloo, utilizando el Psycho Drive trató de liberar al resto de soldados. Vega, el asesino español, fue enviado a liquidarla, pero ante la imposibilidad de herir a una mujer tan hermosa, Vega decidió dejarla vivir. Se dice que él mismo fue quien dejó a una amnésica Cammy en las oficinas del MI6 británico. En el MI6, Cammy se unió al grupo Delta Red en Inglaterra. Buscando pistas sobre su pasado, supo que había tenido cierta relación con Shadaloo y, concretamente, con Bison. Se presentó entonces al Street Fighter II y allí descubrió la verdad sobre su pasado. Sin embargo, aun habiéndolo recordado, Cammy decidió seguir con su nueva vida, junto a los miembros de Delta Red y todo lo nuevo que había conocido."
+    },
+    {
+      "id": "chunli",
+      "character": "Chun-Li",
+      "first_appearance": "SFII: The World Warrior",
+      "nationality": "China",
+      "backstory": "Es una estudiante de Wu-Shu/Kung-Fu, entrenada por su padre y por el maestro Gen desde que era muy pequeña, por lo que ha combinado algunos movimientos de Tai Chi en su técnica de Kung Fu. Cuando Chun-Li era muy pequeña (aproximadamente 5 años), su padre, quien era agente de la Interpol, desapareció en una misión que le fue encomendada. Desesperada, pidió ayuda a uno de los amigos más íntimos de su padre, Gen, que le había enseñado algunos de sus movimientos, y le dijo que su padre estaba investigando una organización de reciente aparición llamada Shadowlaw (en otros juegos el nombre de la organización es escrito como Shadaloo). Siguiendo sus indicaciones, siguió los pasos de su padre y se convirtió en una de las mejores agentes de la Interpol, con el objetivo de averiguar qué sucedió con su padre y de ser posible encontrarlo, si aún estaba con vida. Además, empezaría una relación amistosa con los hermanos Yun y Yang, que en ese entonces, eran unos niños."
+    },
+    {
+      "id": "dhalsim",
+      "character": "Dhalsim",
+      "first_appearance": "SFII: The World Warrior",
+      "nationality": "India",
+      "backstory": "Dhalsim es un maestro de yoga que vive en la India con su mujer Sally y su hijo Datta. Ha dedicado toda su vida a alcanzar el equilibrio entre el cuerpo y la mente por medio del yoga y la meditación, lo que le permite realizar movimientos increíbles, como expulsar fuego por la boca, estirar los miembros de su cuerpo, leer mentes o presentir el mal. Su pueblo era muy pobre y padecía muchas enfermedades, por lo que necesitaba ganar dinero rápidamente para salvarlo. Pensó que una forma rápida de ganarlo era el torneo Street Fighter, pero eso iba en contra de uno de sus principios, que era no herir físicamente a otros. Después de mucho meditar, decidió que la lucha era la forma de salvar a su pueblo y así se inscribió en el Street Fighter."
+    },
+    {
+      "id": "elena",
+      "character": "Elena",
+      "first_appearance": "SFIII: New Generation",
+      "nationality": "Kenia",
+      "backstory": "Elena es una chica joven con un espíritu puro y fuerte con una personalidad 'tomboy' alegre similar a Sakura, Ibuki y su compañera rival Makoto (aunque no tan impetuosa y vehementemente templada como esta ultima), ya que ella se muestra comúnmente sonriendo o riendo dulcemente. Si bien es muy enérgica y de buen corazón, también es inteligente, alegre, y adaptable culturalmente, siempre con ganas de aprender más sobre el mundo, que es parte de la razón de sus viajes continuos. También tiene un acento inusual, al cual ella se refiere como algo que obtuvo debido sus viajes alrededor del mundo en una de sus frases de victoria en el videojuego Street Fighter III: 3rd Strike. Elena también es capaz de escuchar y comprender diversos ritmos, así como las voces del viento y los árboles."
+    },
+    {
+      "id": "g",
+      "character": "G",
+      "first_appearance": "SFV (Season 3)",
+      "nationality": "?",
+      "backstory": "G, el Hombre del Misterio, es el autoproclamado Presidente del Mundo, apareció de repente prometiendo unir a los ciudadanos de la Tierra bajo su nombre. Aunque inicialmente es ignorado, Rashid está de acuerdo con la causa de G y se dispone a difundir su mensaje. ¿Quién es G? ¿Son estas sus verdaderas intenciones? ¿G es incluso humano? Hay mucho más en él de lo que parece... El estilo de lucha de G se describe como todas las artes marciales de todo el mundo. En un conjunto de movimientos ardientes que insinúa su verdadera naturaleza, G puede extraer poder de la Tierra para mejorar su Presidencialidad. Con cada nivel que aumenta su Presidencialidad, sus movimientos especiales se vuelven más fuertes."
+    },
+    {
+      "id": "guile",
+      "character": "Guile",
+      "first_appearance": "SFII: The World Warrior",
+      "nationality": "U.S.A",
+      "backstory": "Guile es un hombre rudo, tanto físicamente como mentalmente, que se enorgullece de la familia, siendo un amoroso esposo y padre para su familia. Es un superviviente nato, posee grandes dotes de mando y es exigente en cuanto al cumplimiento de las ordenes que da o recibe. Muestra especial afecto hacia Chun-Li viéndola como una buena amiga y compañera a la que a menudo cuida y riñe como un hermano mayor en las misiones conjuntas que realizan. Un hombre estoico de corazón, la calma e impasibilidad exteriores de Guile en realidad ocultan emociones muy intensas, agudizándose las negativas tras la muerte no confirmada de Charlie Nash. Aunque fiel a la Fuerza Aérea y EE.UU., Guile es extremadamente persistente. Siempre busca llegar al fondo del asunto, sobre todo en lo concerniente a Shadaloo, M. Bison y lo que pasó con Charlie Nash, lo cual le ha acarreado problemas con sus superiores (pese a que le tienen alto respeto y estima) y ha causado dolor a su familia, esto lo hiere profundamente."
+    },
+    {
+      "id": "karin",
+      "character": "Karin",
+      "first_appearance": "SF Alpha 3",
+      "nationality": "Japón",
+      "backstory": "Karin es una millonaria magnate, cabeza del conglomerado Kanzuki Zaibatsu, y que tiene sus propios motivos para realizar sus acciones dentro de la saga. La risa y gestos de Karin se derivan de los estereotipos 'ojou' comunes en las series manga y anime; mientras que tipicamente ella se mantiene snob y arrogante como el estereotipo ojou estándar, otros aspectos de su personalidad pueden variar mucho en otras multimedias de la saga. En el videojuego crossover Namco × Capcom, Karin es más calmada, más sensata y cínica, y sirve como la voz de la razón para la impulsiva Sakura (aunque aun conserva su risa característica y comentarios condescendientes durante las secuencias de batalla). En los cómics de Street Fighter publicados por UDON, por el contrario, ella es extremadamente odiosa y competitiva el punto de la obsesión, haciendo de su personaje algo mucho más como una antagonista."
+    },
+    {
+      "id": "menat",
+      "character": "Menat",
+      "first_appearance": "SFV (Season 2)",
+      "nationality": "Egipto",
+      "backstory": "Menat (メナト Menato?, Árabe: منات) es un personaje de videojuegos de la saga Street Fighter, apareciendo por primera vez en la segunda temporada de DLC para el videojuego Street Fighter V.[4] Ella es una joven adivina egipcia residente en Italia y una usuaria de Soul Power aprendiz de Rose. Ella puede actuar un poco cabeza hueca a veces, sin embargo, tiene una actitud educada pero seria. Viaja por el mundo para entender varias premoniciones. En ocaciones puede parecer infantil, enérgica y burbujeante. Puede sentirse molesta con ciertas personas, como con los soldados Shadaloo de menor rango."
+    },
+    {
+      "id": "mika",
+      "character": "Mika",
+      "first_appearance": "SF Alpha 3",
+      "nationality": "Japón",
+      "backstory": "R. Mika es una hermosa y enérgica chica, quien se enorgullece de si misma al dar el máximo y cautivar al público con sus movimientos de lucha libre profesional. Sus movimientos todavía pueden ser algo forzados, pero definitivamente tiene el potencial para ingresar en el circuito profesional. Idolatra al luchador Zangief y considera que su forma de luchar es la ruta ideal a seguir para ella. La máscara que lleva alrededor de sus ojos a veces puede hacer que sea difícil decir lo que R. Mika está pensando o sintiendo, pero ella es muy abierta acerca de sus emociones. Y tiene la voz como un niño varón. Al parecer es poco observadora y superficial, ya que al principio creyó que las suturas e injertos de piel de Charlie Nash son solo maquillaje, asustándose al darse cuenta que no era así."
+    },
+    {
+      "id": "nash",
+      "character": "Nash",
+      "first_appearance": "SF Alpha: Warriors' Dreams",
+      "nationality": "U.S.A",
+      "backstory": "Es un teniente primero cuya misión es luchar por la justicia y destruir la corrupción de Shadaloo. Fue compañero de misiones de la agente de la Interpol Chun-Li y juntos buscaron a M. Bison para derrotarle (especialmente Chun-Li, que quería vengar a su padre, asesinado por M. Bison). En la versión original japonesa, este personaje es conocido como Nash, y su nombre fue cambiado por el de Charlie en las versiones occidentales. En 2016, con el lanzamiento de Street Fighter V, Capcom adaptó ambos nombres de las dos versiones y como resultado el nombre completo del personaje para todas las regiones es Charlie Nash. Charlie supuestamente podría tener 35 o 38 años, en realidad no se sabe su verdadera edad. Él y Guile eran grandes amigos, y Charlie había enseñado a Guile sus técnicas de lucha. Además, ambos trataron de detener a Bison mientras la base de Shadaloo estaba siendo atacada. Charlie arriesgó su vida para que M. Bison no escapara, muriendo en la explosión."
+    },
+    {
+      "id": "oro",
+      "character": "Oro",
+      "first_appearance": "SFIII: New Generation",
+      "nationality": "Japón",
+      "backstory": "Como tal, Oro no está exento de un sentido de la justicia o la necesidad de humillar a quienes se muestran extremadamente orgullosos y jactanciosos de su talento, como Urien. Además, en su conversación antes de su duelo contra Akuma, Oro estaba visiblemente preocupado en cuanto a cómo un individuo violento e inquietantemente agresivo se expresaba sobre sí mismo como el maestro del puño, y estaba ansioso por mostrarle que tan verdaderamente distante éste se encontraba en realidad del verdadero camino hacia la maestría. Debido a sus capacidades asombrosas, naturalmente Oro disfruta combatiendo contra adversarios fuertes, y encuentra aburrido a los que carecen de aptitudes excepcionales y refinamiento, aunque también disfruta de las comodidades más simples de la vida, y a menudo busca maneras de pasar el tiempo."
+    },
+    {
+      "id": "rolento",
+      "character": "Rolento",
+      "first_appearance": "Final Fight",
+      "nationality": "Alemania",
+      "backstory": "Rolento tiene algunas similitudes con Guile, ya que ambos son miembros de la élite de sus respectivas fuerzas especiales y veteranos de guerra de combate endurecido por los combates; psicológicamente, sin embargo, Rolento se podría describir como una contraparte ligeramente torcida de Guile (aunque no realmente malvado), ya que basa consistentemente su vida entera, diálogos y comportamientos en el estereotipo del veterano militar estricto con un celo más bien fanático, demostrando una evidente alteración en su percepción de la realidad. El alaba el orden absoluto y la disciplina y desprecia cualquier rebeldía o comportamiento inadecuado (esto se hace muy evidente en sus interacciones con su compañera de equipo para el videojuego Street Fighter×Tekken, Ibuki). Habiendo combatido durante innumerables batallas en muchas guerras de todo el mundo, sobre todo la guerra de Vietnam, Rolento es un experto en la guerra y las actividades relacionadas con la guerrilla como los trucos psicológicos, estrategias, equipos, vehículos y armas de fuego, todo los cuales usa en formas letales durante sus combates, haciendo de él un adversario con ases bajo la manga sumamente peligroso."
+    },
+    {
+      "id": "rose",
+      "character": "Rose",
+      "first_appearance": "SF Alpha: Warriors' Dreams",
+      "nationality": "Italia",
+      "backstory": "Rose es una mujer serena, respetuosa, inteligente e independiente que reflexiona mucho sobre el destino y la suerte. Prudente y sofisticada, no es propensa a la ira con facilidad y tiene una conducta muy tranquila, incluso en la batalla. Ella afirma que el poder no es nada sin la habilidad y que ella debe continuar con su camino, incluso si eso significa renunciar a su vida por el bien mayor."
+    },
+    {
+      "id": "ryu",
+      "character": "Ryu",
+      "first_appearance": "SF",
+      "nationality": "Japón",
+      "backstory": "Su estilo de combate, denominado Ansatsuken, es un arte marcial ficticio que mezcla elementos de kárate y judo. Ryu se muestra como un personaje centrado en entrenar y luchar para superarse a sí mismo, independientemente del resultado, y está considerado como uno de los arquetipos de protagonista en los videojuegos de combate. Presente en la franquicia desde la primera entrega Street Fighter (1987), es uno de sus personajes protagonistas, así como el más famoso y representativo. Junto a su compañero de entrenamiento Ken, es el único personaje que ha aparecido en todas las ediciones de los videojuegos, y también ha estado presente en las series manga, las adaptaciones anime y todas las películas de la saga."
+    },
+    {
+      "id": "sagat",
+      "character": "Sagat",
+      "first_appearance": "SF",
+      "nationality": "Tailandia",
+      "backstory": "Sagat engloba una personalidad estereotipo de luchador orgulloso, ya que es muy poderoso y posee una gran fuerza de voluntad, así como muy laborioso; se dedica en cuerpo y alma a la vida en las artes marciales. Su apariencia física poco común le hace amenazante, terrible y francamente hostil a primera vista, lo que resulta verdadero hasta cierto punto. En contraste con su naturaleza inicialmente violenta y a veces cruel, Sagat aprecia a los adversarios dignos y de carácter fuerte, y desprecia mucho tomar ventajas desleales o deshonestas durante el combate. Sus rasgos más honorables salen a relucir durante el desarrollo de su trama argumental, y su orgullo da paso a una honestidad de clase similar a Ryu, su propósito ahora es definido por el corazón de la batalla."
+    },
+    {
+      "id": "sakura",
+      "character": "Sakura",
+      "first_appearance": "SF Alpha 2",
+      "nationality": "Japón",
+      "backstory": "En muchos aspectos, Sakura es muy extrovertida y respetuosa en cuanto a personalidad, ya que la mayor parte del tiempo ella se muestra feliz, enérgica, alegre, positiva, trabajadora y enfocada en el combate. Tiene un espíritu noble y una actitud muy decidida, ya sea en los estudios o en el entrenamiento de artes marciales. Ella ve a Ryu como un ídolo y maestro, en lugar de un adversario, ya que ella siempre lo observaba luchar y refleja en sí misma sus filosofías en batalla. Aunque sus técnicas pueden parecer algo rústicas en comparación con Ryu y Ken, se las arregla para equilibrar su trabajo escolar con sus entrenamientos con la esperanza de ser aceptada como estudiante por Ryu y probarse a sí misma luchando contra dignos adversarios. En un combate justo, Sakura es una guerrera muy paciente y disciplinada. Ella es la encarnación de la inocencia, y es reconocida por muchos luchadores que tiene un gran potencial que podría igualar a Ryu y Ken en fuerzas cuando alcance la edad adulta."
+    },
+    {
+      "id": "urien",
+      "character": "Urien",
+      "first_appearance": "SFIII: 2nd Impact",
+      "nationality": "México",
+      "backstory": "La personalidad de Urien puede ser mejor descrita como tiránica, tanto en contraste con la naturaleza aparentemente benevolente de su hermano Gill. El apodo de Urien en la saga Street Fighter III es The Treacherous Disciple (El Discípulo Traicionero), en alusión a su condición de Judas para el Jesús que sería Gill. Con frecuencia demuestra tendencias sádicas, y carga un montón de orgullo en volverse el Verdadero Emperador. También rechaza los cerebros mantenidos en criopreservación de sus predecesores como feos y estúpidos, además de solo ser una masa de basura sin capacidad de actuar de manera positiva. Urien también renuncia a cualquier de los rasgos o elementos nobles relacionados con el liderazgo, considerándolos como cosas sin valor alguno, y en su lugar busca el miedo y el sometimiento a través de su reinado, como un tirano despótico. En consecuencia, grita frases como aplastar, destruir y matar durante la mayor parte de sus ataques especiales, que - junto con sus nombres - resaltan su naturaleza violenta. Esto también apunta a la falta de control de sí mismo derivado de la inestabilidad emocional que se puede reflejar en el videojuego debido a su uso de movimientos de carga."
+    },
+    {
+      "id": "vega",
+      "character": "Vega",
+      "first_appearance": "SFII: The World Warrior",
+      "nationality": "España",
+      "backstory": "Vega es vanidoso y convencido de sus propias habilidades, casi al punto de la megalomanía, aunque esto es quizás justificado, ya que se demuestra que es un combatiente altamente calificado. Puede ser increíblemente sádico - a veces hasta el punto de ser un monstruo sediento de sangre - y toma gran placer en ver a los feos asesinados. A menudo tiene una actitud fría como una piedra, y parece ser misterioso con sus emociones. Su narcisismo y el desprecio por todo lo que carezca de la elegancia, le hace entrar en conflicto con su camarada de Shadaloo, Balrog. El ego desenfrenado y solipsistico de Vega se muestra incluso en sus gustos para la decoración de interiores, ya que su mansión está decorada con muchos retratos, todos sobre él mismo. A pesar de su personalidad vanidosa, los manierisimos de Vega se muestran a veces como elegantes y caballerosos, probablemente debido a su origen noble. También ha sido descrito como inteligente y sofisticado.[7] Además, también se siente atraído e impresionado por la belleza y la fuerza de las mujeres jóvenes, en particular Chun-Li y Cammy."
+    },
+    {
+      "id": "viper",
+      "character": "Viper",
+      "first_appearance": "SF IV",
+      "nationality": "U.S.A",
+      "backstory": "La personalidad de trabajo de C. Viper es superior y condescendiente, como se ve en sus interacciones con Chun-Li, Cammy y Hakan. Sin embargo, también está realmente interesada en el funcionamiento interno y los problemas de los demás luchadores, como se muestra en sus diversas frases de victoria, pero cuando se trata de sus misiones, C. Viper no deja que nadie le impida completar sus objetivos. Cuando no se encuentra cumpliendo misiones, ella se muestra como una madre amorosa, como se observa durante su secuencia final para el videojuego Super Street Fighter IV."
+    },
+    {
+      "character": "Zangief",
+      "first_appearance": " SFII: The World Warrior",
+      "nationality": "U.R.S.S",
+      "backstory": "Nacido y criado en la Unión Soviética, Zangief es un personaje increíblemente patriótico que ha sido motivado de alguna manera a luchar por su Madre Patria en cada combate que ha estado alguna vez. El videojuego Street Fighter II: The World Warrior representa que Zangief era de la URSS cuando éste fue publicado en el año 1991. La Unión Soviética dejó de existir como tal a finales del año 1991, pero debido al uso intensivo de la iconografía soviética en y alrededor del personaje de Zangief, incluyendo su escenario local (una planta siderúrgica completada con el logotipo de hoz y martillo gigantes grabado en el suelo), Zangief fue representado como procedente de la URSS hasta una fecha tan extensa como el año 1998, cuando el videojuego Street Fighter Alpha 3 fue publicado (aunque justificadamente, los videojuegos de la saga Street Fighter Alpha tienen lugar entre el primer y segundo videojuego, lo que significa que la URSS todavía existía en ese entonces). En el videojuego Street Fighter IV publicado en el año 2008, fue la primera vez que Zangief fue representado como siendo de la Federación de Rusia.",
+      "alt_image": "https://sfgalleries.net/art/sf5/sf5/tarot/sfv-tarot-07-thechariot.png",
+      "id": "XwOSgej"
+    }
+  ]
+}
