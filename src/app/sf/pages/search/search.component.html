@@ -6,9 +6,9 @@
     <div fxLayout="column">
         <h3>Buscador</h3>
         <mat-form-field appearance="fill">
-            <mat-label>Number</mat-label>
+            <mat-label>¿Qué personaje estás buscando?</mat-label>
             <input type="text"
-                   placeholder="Pick one"
+                   placeholder="e. g. Ryu, Guile, Chun-Li..."
                    aria-label="Number"
                    matInput
                    [(ngModel)]="term"
@@ -27,7 +27,8 @@
         </mat-form-field>
     </div>
     <div *ngIf="sfSelected">
-      <app-sf-card fxFlex="20" [sfChar]="sfSelected"></app-sf-card>
+      <app-sf-card fxFlex="20" [sfChar]="sfSelected" class="bigScreen"></app-sf-card>
+      <app-sf-card fxFlex="100" [sfChar]="sfSelected" class="smallScreen"></app-sf-card>
     </div>
 </div>
 
